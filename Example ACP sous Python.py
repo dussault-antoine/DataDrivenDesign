@@ -205,7 +205,7 @@ plt.plot([0,0],[-1,1],color='silver',linestyle='-',linewidth=1)
 #ajouter un cercle
 cercle = plt.Circle((0,0),1,color='blue',fill=False)
 axes.add_artist(cercle)
-
+#test
 #affichage
 plt.show()
 
